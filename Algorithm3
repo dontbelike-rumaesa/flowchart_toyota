@@ -1,0 +1,6 @@
+Input two numbers and a variable
+If the number is +, add the two numbers
+If the number is -, subtract the two numbers
+If the number is *, multiply the two numbers
+If the number is /, divide the two numbers
+output the result
