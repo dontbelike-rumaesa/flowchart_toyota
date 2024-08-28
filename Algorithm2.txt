@@ -1,0 +1,13 @@
+Ask user to input a number between 1 and 12
+If the number == 1, display "January"
+If the number == 2, display "February"
+If the number == 3, display "March"
+If the number == 4, display "April"
+If the number == 5, display "May"
+If the number == 6, display "June"
+If the number == 7, display "July"
+If the number == 8, display "August"
+If the number == 9, display "September"
+If the number == 10, display "October"
+If the number == 11, display "November"
+If the number == 12, display "December"
