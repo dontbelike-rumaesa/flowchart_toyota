@@ -1,0 +1,15 @@
+START
+INPUT num1, num2, num3
+SET sum to 0
+sum = (num1*num2)*num3
+WHILE num1>1
+ sum = sum - num1
+ENDWHILE
+WHILE num2>1
+ sum = sum - num2
+ENDWHILE
+WHILE num3>1
+ sum = sum - num3
+ENDWHILE
+PRINT sum
+END
