@@ -1,0 +1,10 @@
+START 
+INPUT num1, variable, num2
+IF variable == + THEN
+ SET ans = num1 + num2
+ENDIF
+IF variable == - THEN
+ SET ans = num1 - num2
+ENDIF
+PRINT ans
+END
