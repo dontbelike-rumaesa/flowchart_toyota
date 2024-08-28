@@ -1,0 +1,4 @@
+Input a number
+If the number ends with the digit 0,2,4,6 or 8, the number is even
+Otherwise, the number is odd
+Output whether the number is true or false
